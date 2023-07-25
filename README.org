@@ -1,0 +1,10 @@
+* cl-liballegro-nuklear
+
+Mirror of https://gitlab.com/lockie/cl-liballegro-nuklear
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/lockie/cl-liballegro-nuklear.git   |
+| commit  | f450bf4  |
+| systems | cl-liballegro-nuklear |
+|---------+-------------------------------------------|
+
