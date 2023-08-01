@@ -1,10 +1,10 @@
 * cl-liballegro-nuklear
 
-Mirror of https://gitlab.com/lockie/cl-liballegro-nuklear
+CFFI wrapper for the Nuklear IM GUI library with liballegro backend,
+to be used with cl-liballegro.
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/lockie/cl-liballegro-nuklear.git   |
-| commit  | f450bf4  |
-| systems | cl-liballegro-nuklear |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------|
+| source  | git:https://gitlab.com/lockie/cl-liballegro-nuklear.git |
+| commit  | f450bf4                                                 |
+| systems | cl-liballegro-nuklear                                   |
+|---------+---------------------------------------------------------|
