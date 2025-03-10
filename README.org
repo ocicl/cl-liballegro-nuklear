@@ -5,6 +5,6 @@ to be used with cl-liballegro.
 
 |---------+---------------------------------------------------------|
 | source  | git:https://gitlab.com/lockie/cl-liballegro-nuklear.git |
-| commit  | f43e3bb                                                 |
+| commit  | 381a07b                                                 |
 | systems | cl-liballegro-nuklear                                   |
 |---------+---------------------------------------------------------|
