@@ -8,4 +8,4 @@ to be used with cl-liballegro.
 | commit  | eb45ded                                                 |
 | systems | cl-liballegro-nuklear                                   |
 |---------+---------------------------------------------------------|
- 
+  
